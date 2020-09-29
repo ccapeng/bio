@@ -1,5 +1,7 @@
 # Alex Peng
 
+<img src="boat.png" alt="Nova Scotia" style="width:100%">
+
 I was a teacher and “developer”.
 
 I dreamed of splitting my legs in yoga class, 
