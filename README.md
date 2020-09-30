@@ -1,3 +1,6 @@
+<style>
+p {font-size:1.25rem; font-weight:200}
+</style>
 # Alex Peng
 
 <img src="boat.png" alt="Nova Scotia" style="width:100%">
