@@ -1,5 +1,3 @@
-<article style="font-size:1.25rem;font-weight:200">
-
 # Alex Peng
 
 <img src="boat.png" alt="Nova Scotia" style="width:100%">
@@ -38,5 +36,3 @@ Have you taught yourself or have you developed yourself?
   
   
 `{ ...Join Palm, ...Peace }`
-
-</article>
